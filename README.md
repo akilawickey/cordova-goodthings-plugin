@@ -1,2 +1,2 @@
 # simple_plugin
-Still development
+Still development stage
