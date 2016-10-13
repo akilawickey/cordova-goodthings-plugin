@@ -1,0 +1,44 @@
+{
+  "name": "asak.pro.goodthings",
+  "cordova_name": "Cordova Goodthings Plugin",
+  "version": "1.0.0",
+  "description": "Remind the goodthings which you have done",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akilawickey/cordova-goodthings-plugin.git"
+  },
+  "keywords": [
+    "appplant",
+    "notification",
+    "pinpotha",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.3.0"
+    }
+  ],
+  "dependencies": {
+    "cordova-plugin-device": "*",
+    "cordova-plugin-app-event": ">=1.1.0"
+  },
+  "author": "Akila Wickey",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/akilawickey/cordova-goodthings-plugin/issues"
+  },
+  "homepage": ""
+}
